@@ -1,0 +1,23 @@
+﻿  Bank System.cpp
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsUser.h(195,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsInputValidate.h(101,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsInputValidate.h(105,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsBankClient.h(208,12): warning C4240: nonstandard extension used: access to 'clsBankClient::stTrnsferLogRecord' now defined to be 'public', previously it was defined to be 'private'
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsBankClient.h(394,28): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsBankClient.h(405,33): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsAddNewClientScreen.h(28,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsUpdateClientScreen.h(27,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsTotalBalancesScreen.h(49,82): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsUpdateCurrencyRateScreen.h(17,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsCurrencyCalculatorScreen.h(17,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsBankClient.h(346,1): warning C4715: 'clsBankClient::Save': not all control paths return a value
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsBankClient.h(409,1): warning C4715: 'clsBankClient::Withdraw': not all control paths return a value
+C:\Users\YAR\Desktop\Bank System\Bank System\Bank System\clsUser.h(341,1): warning C4715: 'clsUser::Save': not all control paths return a value
+  Bank System.vcxproj -> C:\Users\YAR\Desktop\Bank System\Bank System\x64\Debug\Bank System.exe
